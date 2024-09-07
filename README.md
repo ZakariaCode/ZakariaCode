@@ -10,6 +10,7 @@ J'ai une expérience pratique significative avec GitHub pour la gestion et la co
 
 ## 🔗 Liens
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-el-hajjam-72815127a)
+https://portfolio-theta-two-54.vercel.app/
 
 ## 🛠 Compétences
 #### Langages de programmation
