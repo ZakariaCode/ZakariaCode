@@ -1,7 +1,5 @@
 <!-- Bannière en haut -->
-<div align="center">
-  <img src="https://github.com/zakariacode/zakariacode/blob/main/banner.png" alt="Banner" width="100%"/>
-</div>
+
 
 <h1 align="center">👋 Hi, I'm Zakaria El Hajjam</h1>
 <h3 align="center">🚀 Full Stack Developer | Passionate about Building Scalable & User-Friendly Applications</h3>
