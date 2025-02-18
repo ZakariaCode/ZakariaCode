@@ -1,3 +1,8 @@
+<!-- Bannière en haut -->
+<div align="center">
+  <img src="https://github.com/zakariacode/zakariacode/blob/main/banner.png" alt="Banner" width="100%"/>
+</div>
+
 <h1 align="center">👋 Hi, I'm Zakaria El Hajjam</h1>
 <h3 align="center">🚀 Full Stack Developer | Passionate about Building Scalable & User-Friendly Applications</h3>
 
@@ -72,7 +77,7 @@ Here are some of the technologies and tools I work with:
 Let's collaborate and build something amazing together! Feel free to reach out:
 
 - [LinkedIn](https://linkedin.com/in/zakaria-el-hajjam)
-- [Email](mailto:elhajjamzakaria1@gmail.com)
+- Email: **elhajjamzakaria1@gmail.com**
 
 ---
 
