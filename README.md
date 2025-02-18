@@ -81,7 +81,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on creating modern
 
 Let's collaborate and build something amazing together! Feel free to reach out:
 
-- [LinkedIn](https://linkedin.com/in/zakaria-el-hajjam)
+- [LinkedIn](https://www.linkedin.com/in/zakaria-el-hajjam-72815127a/)
 - Email: **elhajjamzakaria1@gmail.com**
 
 ---
