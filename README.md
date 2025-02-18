@@ -22,38 +22,44 @@ I'm a passionate **Full Stack Developer** with a strong focus on creating modern
 
 ### 🛠️ Technologies & Tools
 
-Here are some of the technologies and tools I work with:
-
-#### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+#### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-#### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
 #### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?logo=oracle&logoColor=white)
 
-#### Mobile Development
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+#### Design Tools
+![Merise](https://img.shields.io/badge/-Merise-000000?logo=merise&logoColor=white)
+![UML](https://img.shields.io/badge/-UML-000000?logo=uml&logoColor=white)
 
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+#### Collaboration Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
+#### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+#### Other Tools
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
